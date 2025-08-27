@@ -1,0 +1,11 @@
+# Ambiente virtual do Python
+venv/
+
+# Pasta de dados confidenciais
+data/
+
+# Outros arquivos temporários ou de sistema
+.vscode/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
