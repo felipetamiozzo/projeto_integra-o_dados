@@ -9,8 +9,7 @@ Nosso trabalho consistiu em unificar múltiplas bases de dados (oriundas das aba
 
 O resultado final é uma base de dados limpa e pronta para análises, permitindo ao `'nome confidencial'` gerar relatórios de desempenho por cliente de forma mais eficiente e automatizada.
 
-## ⚙️ Ferramentas e Metodologia
-
+## ⚙️ Ferramentas e Metodologi
   * **Linguagem:** Python
   * **Bibliotecas Principais:**
       * `pandas`: Para a manipulação e análise dos dados.
