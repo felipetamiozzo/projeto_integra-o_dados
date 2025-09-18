@@ -10,7 +10,7 @@ Este projeto implementa um pipeline de ETL (Extração, Transformação e Carga)
 
 ## 🎯 Objetivo do Projeto
 
-O script principal (`unificar_clientes.py`) foi desenvolvido para:
+O script principal (`analise_limpeza.ipynb`) foi desenvolvido para:
 1.  **Extrair** dados de clientes de múltiplas abas de um arquivo Excel.
 2.  **Transformar** os dados através de regras de limpeza e padronização de nomes.
 3.  **Utilizar Fuzzy Matching** (`fuzzywuzzy`) para encontrar la correspondência mais provável entre os nomes de clientes e a "Razão Social" da base de referência.
