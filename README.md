@@ -104,7 +104,7 @@ Com o ambiente configurado e as dependências instaladas, siga os passos:
 2.  **Execute o Processo:**
 
       - Garanta que seu ambiente virtual `(.venv)` esteja ativo.
-      - Abra e execute as células do notebook localizado em `src/unificar_clientes.ipynb`.
+      - Abra e execute as células do notebook localizado em `src/analise_limpeza.ipynb`.
       - Alternativamente, se você tiver uma versão `.py` do script, execute-a pelo terminal:
         ```bash
         python seu_script.py
