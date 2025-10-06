@@ -21,6 +21,19 @@ build/
 .env
 
 
-# Ignora todos os arquivos Excel e CSV
+
+# Ignorar arquivos do Microsoft Office
+
+# Arquivos do Excel
 *.xlsx
-*.csv
+*.xls
+*.xlsm
+
+# Arquivos do Word
+*.docx
+*.doc
+*.dotx
+
+# Arquivos temporários do Office (gerados quando um arquivo está aberto)
+~$*.xlsx
+~$*.docx
