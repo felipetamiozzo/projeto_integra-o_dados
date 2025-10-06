@@ -1,5 +1,3 @@
-
-<<<<<<< HEAD
 ## 🎯 Objetivo do Projeto
 
 O principal objetivo deste projeto é automatizar a limpeza, padronização e unificação de múltiplas bases de dados de clientes, que originalmente se encontram em abas separadas dentro de um único arquivo Excel (`Base de Dados Clientes.xlsx`).
