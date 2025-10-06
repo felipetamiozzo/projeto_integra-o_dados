@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 ## 🎯 Objetivo do Projeto
 
 O principal objetivo deste projeto é automatizar a limpeza, padronização e unificação de múltiplas bases de dados de clientes, que originalmente se encontram em abas separadas dentro de um único arquivo Excel (`Base de Dados Clientes.xlsx`).
@@ -96,3 +97,4 @@ Antes de executar, certifique-se de que você tem o Python 3.7+ instalado. Você
 A função `padronizar_clientes` compara o nome de cada cliente (após limpeza) com a lista de `Razão Social` na `Base_Referencia`. Se a pontuação de similaridade (`fuzz.ratio`) for **igual ou superior a 85%**, o cliente é considerado uma correspondência e seus dados (`ID`, `Razão Social`, `Grupo Econômico`) são padronizados.
 
 ---
+
